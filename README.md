@@ -10,3 +10,13 @@ Existing vision-based methods suffer from high false alarm rates in urban flame 
 
 ![图片](https://cdn-uploads.huggingface.co/production/uploads/660668f93c37e535dea3ba54/vHLPZ3t3ABXWDBTqpcTnx.png)
 
+## Weight, Installation and Simple Inference Example 
+- (DeepSeekVL-1.3B-Chat-fire)[https://huggingface.co/gaoqie/DeepSeekVL-1.3B-Chat-fire]
+- (DeepSeekVL-7B-Chat-fire)[https://huggingface.co/gaoqie/DeepSeekVL-7B-Chat-fire]
+- (DeepSeekVL2-Tiny-fire)[https://huggingface.co/gaoqie/DeepSeekVL2-Tiny-fire]
+- (Qwen2VL-2B-Instruct-fire)[https://huggingface.co/gaoqie/Qwen2VL-2B-Instruct-fire]
+- (qwen2-vl-7b-instruct-fire)[https://huggingface.co/gaoqie/qwen2-vl-7b-instruct-fire]
+- (Qwen2.5VL-3B-Instruct-fire)[https://huggingface.co/gaoqie/Qwen2.5VL-3B-Instruct-fire]
+- (Qwen2.5VL-7B-Instruct-fire)[https://huggingface.co/gaoqie/Qwen2.5VL-7B-Instruct-fire]
+- (InternVl2-8B-fire)[https://huggingface.co/gaoqie/InternVl2-8B-fire]
+- (Glm-Edge-V-5B-fire)[https://huggingface.co/gaoqie/Glm-Edge-V-5B-fire]
